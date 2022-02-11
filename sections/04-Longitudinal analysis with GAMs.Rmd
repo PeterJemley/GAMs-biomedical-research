@@ -69,7 +69,6 @@ f2<-ggplot(dat_sim, aes(x = Day,
   )+
     scale_x_continuous(breaks=c(0,2,5,7,10))+
     thm1
-  
 
 ```
 
